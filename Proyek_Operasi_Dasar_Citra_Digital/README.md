@@ -12,6 +12,8 @@ Proyek ini berisi dua contoh operasi dasar pengolahan citra digital menggunakan 
 
 ```text
 Proyek_Operasi_Dasar_Citra_Digital/
+├── Laporan
+    ├── LAPORAN PRAKTIK PENGGUNAAN GIT DAN GITHUB DALAM PENGELOLAAN PROYEK OPERASI DASAR CITRA DIGITAL.pdf
 ├── foto.jpg
 ├── README.md
 ├── Tugas_Gaussian_Median_Filter.ipynb
